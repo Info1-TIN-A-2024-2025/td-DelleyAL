@@ -2,7 +2,7 @@
 
 int main(int argc, const char *argv[])
 {
-	puts("Adios amigos");
+	puts("Saluto pedro!");
 
 	return 0;
 }
